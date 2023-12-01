@@ -44,6 +44,7 @@ const postres = ["helado", "tarta", "pastel"];
 
 console.log(postres);
 
+
 //Ejercicio 4: Crea una constante con un tipo de dato objeto llamado coder que contengan dos propiedades, nombre y edad e imprímelo en la consola.
 
 //Escribe tu código aquí
